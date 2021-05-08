@@ -42,9 +42,9 @@ except ImportError:
 
         
        
-from requests.exceptions import ConnectionError
-from mechanize import Browser
-from datetime import datetime
+
+
+
  
 reload(sys)
 sys.setdefaultencoding('utf8')
