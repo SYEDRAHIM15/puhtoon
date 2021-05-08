@@ -53,51 +53,9 @@ except ImportError:
 
 
  
-os.system("clear")
-done = False
-def animate():
-    for c in itertools.cycle(['\033[1;96m|', '\033[1;92m/', '\033[1;95m-', '\033[1;91m\\']):
-        if done:
-            break
-        sys.stdout.write('\r\033[1;93mLoading ' + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c )
-        sys.stdout.flush()
-        time.sleep(0.001)
-t = threading.Thread(target=animate)
-t.start()
- 
-time.sleep(5)
-done = True
- 
-def keluar():
-        print "\033[1;97m{\033[1;91m!\033[1;97m} Keluar"
-        os.sys.exit()
- 
- 
-def acak(x):
-    w = 'mhkbpcP'
-    d = ''
-    for i in x:
-        d += '!'+w[random.randint(0,len(w)-1)]+i
-    return cetak(d)
- 
- 
-def cetak(x):
-    w = 'mhkbpcP'
-    for i in w:
-        j = w.index(i)
-        x= x.replace('!%s'%i,'%s;'%str(31+j))
-    x += ''
-    x = x.replace('!0','')
-    sys.stdout.write(x+'\n')
- 
- 
-def jalan(z):
-        for e in z + '\n':
-                sys.stdout.write(e)
-                sys.stdout.flush()
-                time.sleep(0.00001)
-##### LOGO #####
-logo = """
+
+#####LOGO#####
+logo="""
 \033[1;96mALONE HACKER░░░\033[1;92m░░░SYeD RaHiM╗░░WEBDEVELOPER╗░AND╗░░A\033[1;91mETICALHACKER╗
 \033[1;96mYT╔══M4╗B4║░\033[1;92m░░░░WEBHACKER╔══PAK╗HACKER╔══FACEBOOK╗ACCOUNT║\033[1;91m░SYED RAHIM╔╝
 \033[1;96mPAKISTANI╦╝HACKERS\033[1;92m║░░░░░███████║██║░░╚═╝\033[1;91m█████═╝░
