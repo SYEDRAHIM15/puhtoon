@@ -55,7 +55,7 @@ except ImportError:
  
 
 #####LOGO#####
-logo="""
+="""
 \033[1;96mALONE HACKER░░░\033[1;92m░░░SYeD RaHiM╗░░WEBDEVELOPER╗░AND╗░░A\033[1;91mETICALHACKER╗
 \033[1;96mYT╔══M4╗B4║░\033[1;92m░░░░WEBHACKER╔══PAK╗HACKER╔══FACEBOOK╗ACCOUNT║\033[1;91m░SYED RAHIM╔╝
 \033[1;96mPAKISTANI╦╝HACKERS\033[1;92m║░░░░░███████║██║░░╚═╝\033[1;91m█████═╝░
