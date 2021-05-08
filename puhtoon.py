@@ -3,8 +3,8 @@
 #The Credit For This Code Goes SYEDRAHIM
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
-import os,sys,time,mechanize,itertools,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
-from multiprocessing.pool import ThreadPool
+
+
  
 ####  RANDOM Clour ####
 P  = '\033[1;97m'  #
