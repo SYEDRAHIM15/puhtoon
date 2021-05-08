@@ -15,11 +15,11 @@ B  = '\033[1;94m' #
 U  = '\033[1;95m' #
 O = '\033[1;96m' #
  
-my_color = [P, M, H, K, B, U, O]
-warna = random.choice(my_color)
-warni = random.choice(my_color)
+
+
+
 def pkgs():
-        love("\033[1;91m«-----------------\033[1;96mSHABIR BALOCH\033[1;91m-----------------»")
+        love("\033[1;91m«-----------------\033[1;96mSYED RAHIM\033[1;91m-----------------»")
         love("\033[1;96m«-----------------Disclaimer---------------»")
         love("\033[1;91m     This Tool is for Educational Purpose")
         love("\033[1;93mThis presentation is for educational")
