@@ -37,9 +37,9 @@ try:
         import mechanize
 except ImportError:
         
-try:
+
        
-except
+
         
        
 from requests.exceptions import ConnectionError
