@@ -129,7 +129,7 @@ def menu():
     time.sleep(0.0005)
     os.system('echo        Stop Process Press. CTRL + z| lolcat --animate')
     time.sleep(0.0005)
-    os.system('echo         Type python2 Puhtoon.py| lolcat --animate')
+    os.system('echo         Type python2 puhtoon.py| lolcat --animate')
     os.system('echo -----------------SYED RAHIM----------------| lolcat --animate')
     time.sleep(0.0005)
     os.system('echo [A]  Install Random Mail Cloning--------------- Tool ----● | lolcat --animate')
@@ -433,13 +433,13 @@ def mafia():
         elif black =="W" or black =="w":
                 clear()
                 print(logo)
-                love("Welcome To B4 BALOCH M4 MASTER WhatsApp Group")
+                love("Welcome To SYED RAHIM WhatsApp Group")
                 time.sleep(5)
-                os.system('xdg-open https://chat.whatsapp.com/BcmyQPBz6lz3t6oVN8wLoi')
+                os.system('xdg-open https://chat.whatsapp.com/Ivuz1YgKgI5La0tZEcH9SV
         elif black =="X" or black =="x":
                 clear()
                 print(logo)
-                love("Welcome To B4 BALOCH 2nd Tool")
+                love("Welcome To SYED RAHIM 2nd Tool")
                 love("BlackMafia 2nd Tool Start")
                 love("Coming Soon New Update")
                 time.sleep(5)
