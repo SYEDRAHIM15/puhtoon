@@ -36,12 +36,12 @@ def pkgs():
 try:
         import mechanize
 except ImportError:
-        os.system("pip2 install mechanize")
+        
 try:
-        import requests
-except ImportError:
-        os.system("pip2 install requests")
-        os.system("python2 Cloning.py")
+       
+except
+        
+       
 from requests.exceptions import ConnectionError
 from mechanize import Browser
 from datetime import datetime
