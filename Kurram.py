@@ -475,7 +475,7 @@ def mafia():
         elif black =="W" or black =="w":
                 clear()
                 print(logo)
-                love("Welcome 𝑻𝑶 𝖲𝖸𝖤𝖣 𝖱𝖠𝖧𝖨𝖭 WhatsApp Group")https://chat.whatsapp.com/Ivuz1YgKgI5La0tZEcH9SV
+                
                 time.sleep(5)
                 os.system('xdg-open 
         elif black =="X" or black =="x":
