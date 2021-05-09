@@ -4,7 +4,7 @@
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
-
+""""
  
 ####  RANDOM Clour ####
 P  = '\033[1;97m'  #
@@ -16,7 +16,7 @@ U  = '\033[1;95m' #
 O = '\033[1;96m' #
  
 
-
+"""""""
 
 def pkgs():
         love("\033[1;91m«-----------------\033[1;96mSYED RAHIM\033[1;91m-----------------»")
