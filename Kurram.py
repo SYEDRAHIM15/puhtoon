@@ -143,8 +143,8 @@ def love(z):
                 sys.stdout.flush()
                 t1()
 def menu():
-    os.system('clear')
-    pkgs()
+    
+    
     os.system('clear')
     print(logo)
     os.system('clear')
