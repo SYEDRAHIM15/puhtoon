@@ -33,9 +33,9 @@ def pkgs():
         love("\033[1;96m «-----------------\033[1;92mSHABIR BALOCH\033[1;96m--------------»")
         time.sleep(0.3)
         os.system("pip install lolcat")
-try:
-        import mechanize
-except ImportError:
+
+
+
         
 
        
