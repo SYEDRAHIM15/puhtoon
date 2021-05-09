@@ -505,7 +505,7 @@ def mafia():
         elif black =="Z" or black =="z":
             os.system("exit")
 if __name__ == "__main__":
-    menu()
+    
  
 
                 
